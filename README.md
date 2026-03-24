@@ -22,10 +22,12 @@ A tiny, responsive web app that randomly changes the page background and text/bu
 3. `document.body.style.backgroundColor` updates the background.
 4. `titleName.style.color` and `btnPrimary.style.backgroundColor` update the title/button colors.
 
-## ▶️ Run locally
+## ▶️ How to run
 
 1. Open this link:
 2. Click **Change Colour**.
+----
+Or, you can just copy and paste it into your own code, then run it.
 
 ## 💡 Customization ideas
 
