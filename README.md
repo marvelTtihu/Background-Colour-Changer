@@ -29,18 +29,6 @@ A tiny, responsive web app that randomly changes the page background and text/bu
 ----
 Or, you can just copy and paste it into your own code, then run it.
 
-## 💡 Customization ideas
-
-- Add a color history log or copy button.
-- Add a “lock color” toggle for title/button or background.
-- Add color contrast checks for accessible text.
-- Animate gradients instead of flat colors.
-
-## 🧰 Requirements
-
-- Modern browser (Chrome, Edge, Firefox, Safari)
-- No build step needed (vanilla HTML/CSS/JS)
-
 ## 📬 Notes
 
 This is intended as a learning project for DOM manipulation, color math, and responsive UI design.
