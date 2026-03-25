@@ -27,7 +27,11 @@ A tiny, responsive web app that randomly changes the page background and text/bu
 1. Open this link: [Here](https://marvelttihu.github.io/Background-Colour-Changer/)
 2. Click **Change Colour**.
 ----
-Or, you can just copy and paste it into your own code, then run it.
+Or,
+1. Download or clone this repository
+2. Navigate to the ```Background-Colour-Changer``` folder
+3. Open index.html in your web browser
+4. Click **Change Colour**
 
 ## 📬 Notes
 
