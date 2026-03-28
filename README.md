@@ -9,11 +9,11 @@ A tiny, responsive web app that randomly changes the page background and text/bu
 - Smooth transition animation for style updates.
 - Fully responsive layout for desktop, tablet, and mobile.
 
-## 📁 Project Structure
+## 📁 Tech Stack
 
-- `index.html`: HTML structure and main button.
-- `style.css`: Minimal styling with transitions and responsive breakpoints.
-- `script.js`: JavaScript color generation & click handler.
+- HTML5
+- CSS3
+- JavaScript
 
 ## 🛠️ How it works
 
