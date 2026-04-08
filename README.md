@@ -5,15 +5,9 @@ A tiny, responsive web app that randomly changes the page background and text/bu
 ## 🚀 Features
 
 - Single-button interaction: changes the body background to a random color.
-- Title and button color update independently for a vibrant multicolor experience.
 - Smooth transition animation for style updates.
 - Fully responsive layout for desktop, tablet, and mobile.
-
-## 📁 Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
+- A color name.
 
 ## 🛠️ How it works
 
