@@ -9,13 +9,6 @@ A tiny, responsive web app that randomly changes the page background and text/bu
 - Fully responsive layout for desktop, tablet, and mobile.
 - A color name.
 
-## How it works
-
-1. Button click triggers `getRandomColor()` and `getRandomColor2()`.
-2. `Math.random()` + `toString(16)` creates a hex color code.
-3. `document.body.style.backgroundColor` updates the background.
-4. `titleName.style.color` and `btnPrimary.style.backgroundColor` update the title/button colors.
-
 ## How to run
 1. Download or clone this repository
 2. Navigate to the ```Background-Colour-Changer``` folder
